@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7DE89FB2-0906-4AF7-B453-7127F98921A7}</ProjectGuid>
+    <ProjectGuid>{4998678E-9E54-44D9-AD2E-2ECBE8C949FF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Cart</RootNamespace>
-    <AssemblyName>Cart</AssemblyName>
+    <RootNamespace>Assignmnet</RootNamespace>
+    <AssemblyName>Assignmnet</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,13 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IPayment.cs" />
-    <Compile Include="Items.cs" />
-    <Compile Include="IUserCart.cs" />
-    <Compile Include="Payment.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UserCart.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
