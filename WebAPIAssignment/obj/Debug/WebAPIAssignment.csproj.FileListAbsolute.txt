@@ -1,0 +1,7 @@
+c:\users\nsakhuja\source\repos\WebAPIAssignment\WebAPIAssignment\bin\Debug\WebAPIAssignment.exe.config
+c:\users\nsakhuja\source\repos\WebAPIAssignment\WebAPIAssignment\bin\Debug\WebAPIAssignment.exe
+c:\users\nsakhuja\source\repos\WebAPIAssignment\WebAPIAssignment\bin\Debug\WebAPIAssignment.pdb
+c:\users\nsakhuja\source\repos\WebAPIAssignment\WebAPIAssignment\obj\Debug\WebAPIAssignment.csprojResolveAssemblyReference.cache
+c:\users\nsakhuja\source\repos\WebAPIAssignment\WebAPIAssignment\obj\Debug\WebAPIAssignment.csproj.CoreCompileInputs.cache
+c:\users\nsakhuja\source\repos\WebAPIAssignment\WebAPIAssignment\obj\Debug\WebAPIAssignment.exe
+c:\users\nsakhuja\source\repos\WebAPIAssignment\WebAPIAssignment\obj\Debug\WebAPIAssignment.pdb
